@@ -1,7 +1,12 @@
-# [Sudoku](https://youtu.be/S4uRtTb8U-U)
-- Tutorial: https://youtu.be/S4uRtTb8U-U
-- Demo: https://imkennyyip.github.io/Sudoku/
+#Sudoku Puzzle Game
+![Screenshot (508)](https://github.com/jvdjugal3886/Sudoku-Puzzle/assets/89655571/cc6e5690-fda5-440c-b6fa-72126fda804a)
 
-In this tutorial, you will learn how to create Sudoku using basic HTML, CSS, JavaScript. You will learn how to select numbers and place them on the tile, and check for errors.
+## Features
 
-![sudoku-preview](https://user-images.githubusercontent.com/78777681/163041771-71dd9cfd-7c94-424a-bdc9-4c252ccd66a8.png)
+- **Interactive Gameplay:** Users can solve Sudoku puzzles directly in their browser.
+- **Responsive Design:** The game is fully responsive and works on various devices and screen sizes.
+- **Validation:** Check if your solution is correct.
+
+If you want to clone it to your system, go to power shell, and paste the given code below
+
+git clone https://github.com/jvdjugal3886/Sudoku-Puzzle
